@@ -1,3 +1,4 @@
 [submodule "lib/RectangleBinPack"]
 	path = lib/RectangleBinPack
+	branch = master
 	url = https://github.com/idblab/RectangleBinPack.git
